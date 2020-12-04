@@ -5,7 +5,7 @@ export default [
     "description": "Cybernetically enhanced web apps",
     "status": "inProgress",
     "completed": false,
-    "dueDate": "2020-12-03"
+    "dueDate": "2020-12-11"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@ export default [
     "description": "The data API for modern applications",
     "status": "pending",
     "completed": false,
-    "dueDate": "2020-12-02"
+    "dueDate": "2020-12-12"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@ export default [
     "description": "Best hosting hands down",
     "status": "pending",
     "completed": false,
-    "dueDate": "2020-12-01"
+    "dueDate": "2020-12-15"
   },
   {
     "id": 4,
