@@ -1,0 +1,10 @@
+type Todo {
+  title: String!
+  description: String
+  completed: Boolean
+  dueDate: Date
+}
+
+type Query {
+  allTodos: [Todo!]
+}
