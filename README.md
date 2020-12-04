@@ -1,7 +1,9 @@
 
 # Todo App on Svelte
 
-This is a todo application built while learning [Svelte](https://svelte.dev) apps. Try it at: https://tired-lock.surge.sh
+## Live Demo: https://condemned-guitar.surge.sh
+
+This is a todo application built while learning [Svelte](https://svelte.dev) apps. Try it at: https://condemned-guitar.surge.sh
 
 This project was based off the template created by Rich Harris: using [degit](https://github.com/Rich-Harris/degit):
 
