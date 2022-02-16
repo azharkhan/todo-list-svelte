@@ -25,10 +25,10 @@ export default [
   },
   {
     "id": 4,
-    "title": "Interview with NorthOne",
-    "description": "Banking for builders",
+    "title": "Update this repo",
+    "description": "Should feel like it's still in use!",
     "status": "done",
     "completed": true,
-    "dueDate": "2020-11-30"
+    "dueDate": "2021-02-15"
   }
 ]
